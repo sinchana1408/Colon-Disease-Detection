@@ -14,7 +14,8 @@ This project helps identify colon-related diseases from medical images using a C
 **🧬 Dataset Structure**
 
 The dataset is organized into four folders:
-- ![Home Page](https://github.com/sinchana1408/Colon-Disease-Detection/blob/c8ceb5bb85d7611ce90cdab23f92682ff0e8d5dd/Screenshot%202025-07-12%20205234.png)
+
+![Home Page](https://github.com/sinchana1408/Colon-Disease-Detection/blob/c8ceb5bb85d7611ce90cdab23f92682ff0e8d5dd/Screenshot%202025-07-12%20205234.png)
   
 Each folder contains images of size 512x512 pixels representing the respective disease class.
 
@@ -45,14 +46,15 @@ python app.py
 You will be prompted to select an image, and the model will output the predicted class.
 
 **✅ Example Prediction**
+
 Input Image: sample_image.jpg
 Output: Predicted class: Ulcerative Colitis
 
-> **Screenshots**
+**Screenshots**
 
-> ![Alt Text](https://github.com/sinchana1408/Colon-Disease-Detection/blob/6c7e59284b44f416e04eefea3ae7744b8a1f7b37/Screenshot%202025-07-12%20133718.png)
+![Alt Text](https://github.com/sinchana1408/Colon-Disease-Detection/blob/6c7e59284b44f416e04eefea3ae7744b8a1f7b37/Screenshot%202025-07-12%20133718.png)
 
->![Home Page](https://github.com/sinchana1408/Colon-Disease-Detection/blob/6c7e59284b44f416e04eefea3ae7744b8a1f7b37/Screenshot%202025-07-12%20133847.png)
+![Home Page](https://github.com/sinchana1408/Colon-Disease-Detection/blob/6c7e59284b44f416e04eefea3ae7744b8a1f7b37/Screenshot%202025-07-12%20133847.png)
 
 **🧪 Technologies Used**
 - Python
