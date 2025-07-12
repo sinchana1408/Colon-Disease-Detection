@@ -32,6 +32,7 @@ Each folder contains images of size 512x512 pixels representing the respective d
 
 Step 1: Clone the Repository
 git clone https://github.com/sinchana1408/Colon-Disease-Detection.git
+
 cd Colon-Disease-Detection
 
 Step 2: Install Dependencies
@@ -48,6 +49,7 @@ You will be prompted to select an image, and the model will output the predicted
 **✅ Example Prediction**
 
 Input Image: sample_image.jpg
+
 Output: Predicted class: Ulcerative Colitis
 
 **Screenshots**
